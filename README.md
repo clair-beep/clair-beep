@@ -2,7 +2,7 @@
 
 I'm a Software engineer following my passion for programming.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 🏦 I'm currently working for an e-commerce platform. I like building pipelines, exploring scalability problems, and improving efficiency. I am a Strong Advocate for  Innovation and Automation 🤖
 
