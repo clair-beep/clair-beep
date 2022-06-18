@@ -2,10 +2,7 @@
 
 I'm a Software engineer following my passion for programming.
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 🏦 I'm currently working for an e-commerce platform. I like building pipelines, exploring scalability problems, and improving efficiency. I am a Strong Advocate for  Innovation and Automation 🤖
-
 👯 I look forward to collaborating on open source projects.
 🌌 Outside of tech I like sketching 🖌️, watching Anime 📺 and   Indie Movies 🎥 as well as playing some Video Games 🎮
 🖥️ Coding space: Bright ☀️ + Music 🎧 + Coffee ☕️
@@ -15,9 +12,6 @@ I'm a Software engineer following my passion for programming.
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery. I have Worked on various Projects related to Artifical Intelligence,also <b> I'm 3 x @Microsoft Certified in Azure Fundamental , Artificial Intelligence, Security. </b> . Tech: Artifical Intelligence, Bionics, Microsoft Azure, Deep learning, Google cloud, Avionics.
- Known Languages: Python,C, Html, JavaScript, and CSS.
-
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
