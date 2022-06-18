@@ -1,23 +1,14 @@
-###  Hi there 👋 I'm Clair,
+###   Hi there 👋 I'm Clair,
 
 I'm a Software engineer following my passion for programming.
 
-🏦 I'm currently working for e-commerce. I like  building pipelines, exploring scalability problems and improving efficiency. I am a Strong Advocate for  Innovation and Automation 🤖
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
 
-Talk to me about art,  Anime,  Indie Movies 🎥, Video Games 🎮, Animation 📸
+🏦 I'm currently working for an e-commerce platform. I like building pipelines, exploring scalability problems, and improving efficiency. I am a Strong Advocate for  Innovation and Automation 🤖
 
-
-<!--
-**clair-beep/clair-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I look forward to collaborating on open source projects.
+🌌 Outside of tech I like sketching 🖌️, watching Anime 📺 and   Indie Movies 🎥 as well as playing some Video Games 🎮
+🖥️ Coding space: Bright ☀️ + Music 🎧 + Coffee ☕️
+📖 Currently Reading: "The Immortality Key: The Secret History of the Religion with No Name " by  Brian C. Muraresku 
+⚡️ Fun fact: I'm a big fan of H.P. Lovecraft
+📫 How to reach me: clair-beep@proton.me
