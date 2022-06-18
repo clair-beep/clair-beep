@@ -1,6 +1,11 @@
-### Hi there 👋 I'm Clair,
+###  Hi there 👋 I'm Clair,
 
-A Software engineering passionate  following my passion for programming 
+I'm a Software engineer following my passion for programming.
+
+🏦 I'm currently working for e-commerce. I like  building pipelines, exploring scalability problems and improving efficiency. I am a Strong Advocate for  Innovation and Automation 🤖
+
+Talk to me about art,  Anime,  Indie Movies 🎥, Video Games 🎮, Animation 📸
+
 
 <!--
 **clair-beep/clair-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
