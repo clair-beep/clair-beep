@@ -2,7 +2,7 @@
 
 I'm a Software engineer following my passion for programming.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 🏦 I'm currently working for an e-commerce platform. I like building pipelines, exploring scalability problems, and improving efficiency. I am a Strong Advocate for  Innovation and Automation 🤖
 
