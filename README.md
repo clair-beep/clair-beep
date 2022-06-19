@@ -65,5 +65,5 @@
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clair-beep&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="clair-beep" height="192px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clair-beep&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="clair-beep" height="192px"/>
   </div>
