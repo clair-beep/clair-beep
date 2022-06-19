@@ -67,7 +67,7 @@
 <table>
   <tr>
    
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=clair-beep" alt="clair-beep" /></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=clair-beep&theme=blood-dark" alt="clair-beep" /></td>
   </tr>
 </table>
 
