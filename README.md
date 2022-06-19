@@ -72,5 +72,5 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clair-beep&theme=dark" alt="clair-beep" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clair-beep&theme=blood-dark" alt="clair-beep" /></p>
   </div>
