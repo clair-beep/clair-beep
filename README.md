@@ -68,7 +68,7 @@
   <tr>
    
 <td><img src="https://github-readme-stats.vercel.app/api?username=The-Shivam-garg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The-Shivam-garg" />
-<td><img src="https://github-readme-stats.vercel.app/api?username=clair-beep&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=E1E7E1&icon_color=E1E7E1&text_color=F24B88&bg_color=0,000000,1B1F14" alt="clair-beep" /></td>
+ <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Shivam-garg&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The-Shivam-garg" /></td>
   </tr>
 </table>
 
