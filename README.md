@@ -73,5 +73,5 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Shivam-garg&theme=dark" alt="The-Shivam-garg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clair-beep&theme=dark" alt="The-Shivam-garg" /></p>
   </div>
