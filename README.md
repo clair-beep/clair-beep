@@ -52,7 +52,7 @@
 </a>
 <div align="center">
 
-<h1 align="center">You can reach me at</h1>
+<h1 align="center">You can reach me at:</h1>
 
 <div align="center">
 
