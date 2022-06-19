@@ -66,7 +66,7 @@
 
 <table>
   <tr>   
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clair-beep&theme=rose_pine&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clair-beep&theme=react&layout=compact" />
     </tr>
 </table>
 
