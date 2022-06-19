@@ -66,8 +66,7 @@
 
 <table>
   <tr>   
-     <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)</td>
-  </tr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)  </tr>
 </table>
 
 <div align="center">
