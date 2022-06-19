@@ -66,10 +66,10 @@
 
 <table>
   <tr>   
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clair-beep&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clair-beep&theme=rose_pine&layout=compact" />
     </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clair-beep&theme=blood-dark" alt="clair-beep" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clair-beep&theme=rose_pine" alt="clair-beep" /></p>
   </div>
