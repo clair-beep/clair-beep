@@ -66,7 +66,8 @@
 
 <table>
   <tr>   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)  </tr>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clair-beep&theme=react&layout=compact" />
+    </tr>
 </table>
 
 <div align="center">
