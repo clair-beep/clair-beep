@@ -65,6 +65,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=clair-beep&theme=chartreuse-dark"  alt="clair-beep" height="92px" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clair-beep&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="clair-beep" height="92px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=clair-beep&theme=chartreuse-dark"  alt="clair-beep" height="120px" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clair-beep&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="clair-beep" height="120px"/>
   </div>
