@@ -66,7 +66,7 @@
 
 <table>
   <tr>   
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clair-beep&layout=compact" alt="clair-beep" /></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clair-beep&layout=compact&bg_color=DEG,02BED6" alt="clair-beep" /></td>
   </tr>
 </table>
 
