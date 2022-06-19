@@ -52,14 +52,12 @@
 </a>
 <div align="center">
 
-<h1 align="center">Let's Get Connected</h1>
-
-Recently I have started a Community <b> TECHBENCHER's </b>to help fellow mates.Join the Social accounts & Discord channel in which will try to share the knowledge and about opportunities. I am active on LinkedIN and Twitter as well. You can reach out to me ,  It will be my Pleasure to help you.</p>
+<h1 align="center">You can reach me at</h1>
 
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/clair-mateus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/Shivams_twt" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:shivanshagarwal2020@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.cloudskillsboost.google/public_profiles/507468ec-3dea-438e-9081-e797687e9890" target="blank"><img alt="Qwiklab" src="https://img.shields.io/badge/Qwiklab-%2300acee.svg?&style=for-the-badge&logo=Qwiklab&logoColor=yellow&alt=Qwiklab" /></a>
