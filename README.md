@@ -1,14 +1,19 @@
-###   Hi there 👋 I'm Clair,
-
-I'm a Software engineer following my passion for programming.
-
-🏦 I'm currently working for an e-commerce platform. I like building pipelines, exploring scalability problems, and improving efficiency. I am a Strong Advocate for  Innovation and Automation 🤖
-👯 I look forward to collaborating on open source projects.
-🌌 Outside of tech I like sketching 🖌️, watching Anime 📺 and   Indie Movies 🎥 as well as playing some Video Games 🎮
-🖥️ Coding space: Bright ☀️ + Music 🎧 + Coffee ☕️
-📖 Currently Reading: "The Immortality Key: The Secret History of the Religion with No Name " by  Brian C. Muraresku 
-⚡️ Fun fact: I'm a big fan of H.P. Lovecraft
-📫 How to reach me: clair-beep@proton.me
+<h1>Hi there 👋 I'm Clair</h1>
+<p>I'm a Software engineer following my passion for programming.
+</p>
+<ul>
+    <li>🏦 I'm currently working for an e-commerce platform. I like building pipelines, exploring scalability problems, and improving efficiency. I am a Strong Advocate for  Innovation and Automation 🤖</li>
+    <li>👯 I look forward to collaborating on open source projects.
+    </li>
+    <li>🌌 Outside of tech I like sketching 🖌️, watching Anime 📺 and   Indie Movies 🎥 as well as playing some Video Games 🎮
+    </li>
+    <li>🖥️ Coding space: Bright ☀️ + Music 🎧 + Coffee ☕️
+    </li>
+    <li>📖 Currently Reading: "The Immortality Key: The Secret History of the Religion with No Name " by  Brian C. Muraresku 
+    </li>
+    <li>⚡️ Fun fact: I'm a big fan of H.P. Lovecraft
+    </li>
+</ul>
 
 <h1>Technical Skills 🛠</h1>
    
