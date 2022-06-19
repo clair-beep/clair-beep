@@ -64,12 +64,6 @@
 
 </div>
 
-<table>
-  <tr>   
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs?username=clair-beep&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px" />
-    </tr>
-</table>
-
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clair-beep&theme=rose_pine" alt="clair-beep" /></p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
   </div>
