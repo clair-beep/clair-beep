@@ -40,7 +40,7 @@
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://github.com)     | Portfolio website build using HTML5, CSS3, JavaScript. 
-| [E-commerce](https://github.com)   | This is a E-commerse webrite 
+| [E-commerce](https://github.com)   | This is a E-commerse website 
  
 
 <a href="https://github.com" target="_blank">
