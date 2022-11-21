@@ -59,12 +59,10 @@
 <a  href="https://www.linkedin.com/in/clair-mateus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-
-
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=clair-beep&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D"  alt="clair-beep" height="120px" />
     <br></br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clair-beep&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="clair-beep" height="120px"/>
+
   </div>
