@@ -1,4 +1,4 @@
-<h1>Hi there 👋 I'm Clair</h1>
+<h1>Hi there 👋 I'm Claire</h1>
 <p>I'm a Software engineer following my passion for programming.
 </p>
 <ul>
