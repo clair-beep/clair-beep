@@ -9,8 +9,7 @@
     </li>
     <li>🖥️ Coding space: Bright ☀️ + Music 🎧 + Coffee ☕️
     </li>
-    <li>📖 Currently Reading: "What We Build with Power: The Fight for Economic Justice"  by David Delmar Sentíes
-
+    <li>📖 Currently Reading: "The Immortality Key: The Secret History of the Religion with No Name " by  Brian C. Muraresku 
     </li>
     <li>⚡️ Fun fact: I'm a big fan of H.P. Lovecraft
     </li>
