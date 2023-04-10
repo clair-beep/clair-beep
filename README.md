@@ -40,7 +40,7 @@
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://github.com)     | Portfolio website build using HTML5, CSS3, JavaScript. 
-| [Prox](https://github.com/clair-beep/Prox-Ingredients)   | This website will allow you to search for skincare products and analyze their ingredient lists. Mostly for countries in South America. 
+| [Prox](https://prox-jle9.onrender.com/)   | This website will allow you to search for skincare products and analyze their ingredient lists. Mostly for countries in South America. 
  
 
 <a href="https://github.com" target="_blank">
