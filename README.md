@@ -62,7 +62,6 @@
 </div>
 
 <div align="center">
-  <img src="https://prox-jle9.onrender.com"  alt="clair-beep" height="120px" />
-    <br></br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=clair-beep&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="clair-beep" height="120px" />    <br></br>
 
   </div>
