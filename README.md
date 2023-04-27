@@ -38,21 +38,101 @@
 
 <h1 align="center">Projects</h1>
 
+<table>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center" dir="auto">
+          <a
+            id="user-content-together"
+            class="anchor"
+            aria-hidden="true"
+            href="#together"
+            ><svg
+              class="octicon octicon-link"
+              viewBox="0 0 16 16"
+              version="1.1"
+              width="16"
+              height="16"
+              aria-hidden="true"
+            >
+              <path
+                d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
+              ></path></svg></a
+          >Prox
+        </h3>
+        <br />
+        <p align="center" dir="auto">
+          <a href="https://github.com/Caleb-Cohen/Together">
+            <img
+              src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465"
+              data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white"
+              style="max-width: 100%"
+            />
+          </a>
+          <a href="https://together.cyclic.app/" rel="nofollow">
+            <img
+              src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465"
+              data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white"
+              style="max-width: 100%"
+            />
+          </a>
+        </p>
+        <p dir="auto">
+          <strong>Bootstrap, Javascript, Node.js, Express.js, MongoDB</strong>
+          -Search skincare ingredients fast with our full stack but
+          easy-to-understand explanations
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center" dir="auto">
+          <a
+            id="user-content-together"
+            class="anchor"
+            aria-hidden="true"
+            href="#together"
+            ><svg
+              class="octicon octicon-link"
+              viewBox="0 0 16 16"
+              version="1.1"
+              width="16"
+              height="16"
+              aria-hidden="true"
+            >
+              <path
+                d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"
+              ></path></svg></a
+          >Universe Hubs
+        </h3>
+        <br />
+        <p align="center" dir="auto">
+          <a href="https://github.com/Caleb-Cohen/Together">
+            <img
+              src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465"
+              data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white"
+              style="max-width: 100%"
+            />
+          </a>
+          <a href="https://together.cyclic.app/" rel="nofollow">
+            <img
+              src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465"
+              data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white"
+              style="max-width: 100%"
+            />
+          </a>
+        </p>
+        <p dir="auto">
+          <strong>Bootstrap, Javascript, Node.js, Express.js, EJS, CSS</strong>
+          - Universe Hubs provides news,  latest space exploration, innovation and     astronomy news from different sources in one place. 
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [My Portfolio Website](https://github.com)     | Portfolio website build using HTML5, CSS3, JavaScript. 
-| [Prox](https://prox-jle9.onrender.com/)   | This website will allow you to search for skincare products and analyze their ingredient lists. Mostly for countries in South America. 
- 
 
-<a href="https://github.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white" />
-</a>
-<a href="https://github.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white" />
-</a>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=clair-beep&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="clair-beep" height="120px" />    <br></br>
