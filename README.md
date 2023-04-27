@@ -15,7 +15,7 @@
     </li>
     <li>👨‍💻 All of my projects are available at https://claire-dev.tech/
     </li>
-    <li>📫 How to reach me clairebeep5@gmail.com
+    <li>📫 How to reach me<a href="mailto:clairebeep5@gmail.com">mbozin94@gmail.com</a>  
     </li>
 </ul>
 
