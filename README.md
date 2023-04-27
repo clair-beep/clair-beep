@@ -53,17 +53,6 @@
 <a href="https://github.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white" />
 </a>
-<div align="center">
-
-<h1 align="center">You can reach me at:</h1>
-
-<div align="center">
-
-
-<a  href="https://www.linkedin.com/in/clair-mateus/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=clair-beep&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="clair-beep" height="120px" />    <br></br>
