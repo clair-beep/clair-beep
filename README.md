@@ -13,6 +13,10 @@
     </li>
     <li>⚡️ Fun fact: I'm a big fan of H.P. Lovecraft
     </li>
+    <li>👨‍💻 All of my projects are available at https://claire-dev.tech/
+    </li>
+    <li>📫 How to reach me clairebeep5@gmail.com
+    </li>
 </ul>
 
 <h1>Technical Skills 🛠</h1>
