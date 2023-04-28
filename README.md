@@ -1,5 +1,5 @@
 <h1>Hi there 👋 I'm Claire</h1>
-<p>I'm a Software engineer following my passion for programming.
+<p>I'm a Software Developer following my passion for programming.
 </p>
 <ul>
     <li>🏦 I'm currently working for an e-commerce platform. I like building pipelines, exploring scalability problems, and improving efficiency. I am a Strong Advocate for  Innovation and Automation 🤖</li>
